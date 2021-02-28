@@ -6,3 +6,5 @@ Green - 495-570nm;
 Yellow - 570-590nm;
 Orange - 590-620nm;
 Red - 620-700nm.
+
+The visible light is between 400 and 700nm.
