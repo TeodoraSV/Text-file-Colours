@@ -1,8 +1,8 @@
-Colors and their frequencies:
+Colors and their frequencies in alphabetical order:
 
-Violet - 400-450nm;
 Blue - 450-495nm;
 Green - 495-570nm;
-Yellow - 570-590nm;
 Orange - 590-620nm;
-Red - 620-700nm.
+Violet - 400-450nm;
+Red - 620-700nm;
+Yellow - 570-590nm.
