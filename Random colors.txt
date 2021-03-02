@@ -1,4 +1,4 @@
-Colors and their frequencies:
+Colors and their wavelengths:
 
 Violet - 400-450nm;
 Blue - 450-495nm;
