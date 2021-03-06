@@ -1,10 +1,10 @@
-Colors and their wavelengths:
+Colors and their wavelengths and frequencies:
 
-Violet - 400-450nm;
-Blue - 450-495nm;
-Green - 495-570nm;
-Yellow - 570-590nm;
-Orange - 590-620nm;
-Red - 620-700nm.
+Violet - 400-450nm - 670-750 THz;
+Blue - 450-495nm - 610-670 THz;
+Green - 495-570nm - 580-610 THz;
+Yellow - 570-590nm - 540-580 THz;
+Orange - 590-620nm - 480-540 THz;
+Red - 620-700nm - 430-480 THz.
 
 The visible light is between 400 and 700nm.
